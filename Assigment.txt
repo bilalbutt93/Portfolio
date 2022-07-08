@@ -1,1 +1,7 @@
-The main difference between Agile and Devops is, devops provide rapid and reliability delivery with continous delivery and continous integration whereas in Aglie  
+
+DIFFERENCE BETWEEN AGILE AND DEVOPS :
+
+The main difference between Agile and Devops is, devops provide rapid and reliability delivery with continous delivery and continous integration.
+DevOps is a practice of bringing development and operations teams together whereas Agile is an iterative approach that focuses on collaboration, customer feedback and small rapid releases.
+
+
