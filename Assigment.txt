@@ -18,3 +18,13 @@ In continuous delivery, every stage—from the merger of code changes to the del
 Continuous deployment:
 
 The final stage of a mature CI/CD pipeline is continuous deployment. As an extension of continuous delivery, which automates the release of a production-ready build to a code repository, continuous deployment automates releasing an app to production. Because there is no manual gate at the stage of the pipeline before production, continuous deployment relies heavily on well-designed test automation.
+
+BENEFITS OF CLOUD COMPUTING :
+
+Every architecture have Pros and Cons, same clouding computing also have some benefits as well that are listed below
+
+1 - Flexibility
+2 - Mobility 
+3 - Quality Control
+4 - Disaster Recovery
+5 - Sustainability
