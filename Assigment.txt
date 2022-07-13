@@ -28,3 +28,7 @@ Every architecture have Pros and Cons, same clouding computing also have some be
 3 - Quality Control
 4 - Disaster Recovery
 5 - Sustainability
+
+DIFFERENCE BETWEEN GIT AND GITHUB:
+
+Git is a version control system that lets you manage and keep track of your source code history. GitHub is a cloud-based hosting service that lets you manage Git repositories. If you have open-source projects that use Git, then GitHub is designed to help you better manage them.
