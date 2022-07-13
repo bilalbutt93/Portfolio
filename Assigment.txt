@@ -32,3 +32,12 @@ Every architecture have Pros and Cons, same clouding computing also have some be
 DIFFERENCE BETWEEN GIT AND GITHUB:
 
 Git is a version control system that lets you manage and keep track of your source code history. GitHub is a cloud-based hosting service that lets you manage Git repositories. If you have open-source projects that use Git, then GitHub is designed to help you better manage them.
+
+Stages of Git :
+
+There are Four stages of GIT
+
+1- Working Directory
+2- Staging Area
+3- Local Repo
+4- Remote Repo
