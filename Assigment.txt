@@ -41,3 +41,27 @@ There are Four stages of GIT
 2- Staging Area
 3- Local Repo
 4- Remote Repo
+
+
+Stages of Git :
+
+There are Four stages of GIT
+
+1- Working Directory
+2- Staging Area
+3- Local Repo
+4- Remote Repo
+
+STAGES OF GIT RESET :
+
+There are three stages of RESET
+
+GIT RESET: SOFT
+Remove the commit from local repo, but keep the les in staging area
+
+GIT RESET: MIXED
+(Default) Remove the commit from local repo, and also remove
+changes from staging area
+
+Remove the commit from local repo, and staging area and even
+change the local files.
